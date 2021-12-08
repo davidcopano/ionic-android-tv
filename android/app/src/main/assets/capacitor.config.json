@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "ionic-android-tv-test",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
