@@ -1,0 +1,7 @@
+{
+  "name": "ionic-android-tv-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
